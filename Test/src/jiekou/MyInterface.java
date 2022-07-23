@@ -1,0 +1,4 @@
+package jiekou;
+
+interface MyInterface {
+}
